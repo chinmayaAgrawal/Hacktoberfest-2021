@@ -2,6 +2,9 @@
 
 A java aprogram to sort an array of integers in increasing order based on the frequency of the values. If multiple values have the same frequency, sort them in decreasing order.
 
+![Screenshot (727)](https://user-images.githubusercontent.com/54171759/137620679-0f094fb8-ae74-448c-8ef4-c980b41a5c1b.png)
+
+
 ## Method used 
 
 ```
